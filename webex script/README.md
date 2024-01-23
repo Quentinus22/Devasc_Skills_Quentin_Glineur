@@ -1,0 +1,1 @@
+Task name =>Webex, Task preparation => Basis Python en webex team, Task implementation => Door de python code een beetje aan te passen , Task troubleshooting => Ik moest een api-token weer aanvragen , Task verification => Op webex werd de groep aangemaakt en heb ik de foto's doorgestuurd.

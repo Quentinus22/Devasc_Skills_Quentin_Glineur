@@ -1,0 +1,1 @@
+Task name => DNAC , Task preparation => De script aanpassen en veranderen aan wat nodig van de bovenste gegeven, Task implemantation => Ik heb de pythonthon code veranderd en geruned, Task troubleshooting => ik had wat problemen met hoofdletters waar niet nodig etc, Task verification => mijn code geeft alles weer wat nodig is.

@@ -1,0 +1,13 @@
+2024-01-23
+START REST API CALL
+============
+FIRST API CALL
+============
+Status Code: 000
+Status Code: 000
+Status Code: 000
+============
+SECOND API CALL
+============
+============
+END REST API CALL
